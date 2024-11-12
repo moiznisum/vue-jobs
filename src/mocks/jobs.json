@@ -1,18 +1,18 @@
 {
   "jobs": [
     {
-      "id": "1",
       "title": "Senior Vue Developer",
       "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
       "location": "Boston, MA",
-      "salary": "$70K - $80K",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "salary": "$150K - $175K",
       "company": {
         "name": "NewTek Solutions",
         "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
         "contactEmail": "contact@teksolutions.com",
         "contactPhone": "555-555-5555"
-      }
+      },
+      "id": "1"
     },
     {
       "id": "2",
@@ -82,20 +82,6 @@
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
-      }
-    },
-    {
-      "id": "1639",
-      "title": "Muhammad Moiz Siddique",
-      "type": "Full-Time",
-      "location": "Karachi, PK",
-      "description": "bkabskbdkabksbdkbkabskdbjkabskbdjkbaksd ka skjd ka skd k aks dkh akhs dk kahs d ashkd kbaksd bkabskbdkabksbdkbkabskdbjkabskbdjkbaksd ka skjd ka skd k aks dkh akhs dk kahs d ashkd kbaksd",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "Nisum",
-        "description": "bkabskbdkabksbdkbkabskdbjkabskbdjkbaksd ka skjd ka skd k aks dkh akhs dk kahs d ashkd kbaksd bkabskbdkabksbdkbkabskdbjkabskbdjkbaksd ka skjd ka skd k aks dkh akhs dk kahs d ashkd kbaksd",
-        "contactEmail": "nisum@nisum.com",
-        "contactPhone": "999-999-999"
       }
     }
   ]

@@ -21,7 +21,7 @@ const deleteJob = async () => {
   try {
     const confirm = window.confirm('Are you sure you want to delete this job?');
     if (confirm) {
-      await axios.delete(`/api/jobs/${jobId}`);
+      await axios.delete(`https://vue-jobs-backend.vercel.app/jobs/${jobId}`);
       toast.success('Job Deleted Successfully');
       router.push('/jobs');
     }
@@ -33,7 +33,7 @@ const deleteJob = async () => {
 
 const getData = async () => {
   try {
-    const response = await axios.get(`/api/jobs/${jobId}`);
+    const response = await axios.get(`https://vue-jobs-backend.vercel.app/jobs/${jobId}`);
     state.job = response.data;
   } catch (error) {
     console.error('Err: ', error);

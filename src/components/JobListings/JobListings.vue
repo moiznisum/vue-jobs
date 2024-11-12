@@ -20,7 +20,7 @@ const state = reactive({
 
 const getData = async () => {
   try {
-    const response = await axios.get('/api/jobs');
+    const response = await axios.get('https://vue-jobs-backend.vercel.app/jobs');
     console.log('response', response);
     state.jobs = response.data;
   } catch (error) {

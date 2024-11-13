@@ -2,7 +2,9 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-Live Preview: [Click Here](https://vue-jobs-iota.vercel.app/)
+Live Preview: <a href="https://vue-jobs-iota.vercel.app" target="_blank">Click Here</a>
+
+Backend Git Repo: <a href="https://github.com/moiznisum/vue-jobs-backend" target="_blank">Click Here</a>
 
 ## Recommended IDE Setup
 
